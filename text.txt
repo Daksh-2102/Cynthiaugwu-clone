@@ -1,0 +1,6 @@
+smooth scrolling
+-->attach locomotive css 
+-->attach locomotive min js
+-->some code from loco github for js
+
+2. gsap
